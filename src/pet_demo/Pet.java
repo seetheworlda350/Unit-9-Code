@@ -1,4 +1,4 @@
-package pet_demo;
+package src.pet_demo;
 
 public class Pet {
     private String name;

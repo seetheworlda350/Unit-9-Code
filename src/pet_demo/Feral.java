@@ -1,4 +1,4 @@
-package pet_demo;
+package src.pet_demo;
 
 public class Feral extends Cat {
     public Feral(String name, String sound){
